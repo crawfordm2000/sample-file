@@ -17,3 +17,5 @@ r = requests.get("https://coreyms.com")
 
 
 print("Success:", r.status_code)
+
+print("Success:", r.status_code)
